@@ -170,9 +170,14 @@ button:hover {
         border-radius: 0.625rem 0 0 0.625rem;
 
     }
+
+    .attribution {
+        visibility: visible !important;
+    }
 }
 
 .attribution {
+    visibility: hidden;
     font-size: 11px;
     text-align: center;
 }
